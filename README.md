@@ -47,7 +47,6 @@ stock-exchange/
 
 - Python (Pandas, NumPy, Scikit-Learn, Keras, Matplotlib)
 - Power BI Desktop
-- Git & GitHub
 ## 📊 نتایج پیش‌بینی مدل
 
 - **MSE:** حدود 169,000  
